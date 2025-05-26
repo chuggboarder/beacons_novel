@@ -1,3 +1,9 @@
+
+
+
+edit !!!!! 
+
+
 ;; Sun May 18 11:42:40 2025 -- chuggpup --
 ;; H-<insert>   ~/setxkbmap-setter
 ;; toggles the keyboard
