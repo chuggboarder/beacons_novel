@@ -1,51 +1,37 @@
 
-
-
-
-this is another edit.
-
-edit !!!!! 
-
-
 ;; Sun May 18 11:42:40 2025 -- chuggpup --
-;; H-<insert>   ~/setxkbmap-setter
-;; toggles the keyboard
-;; this is the custom layout on CapsLock and the bottom row
-;; ------                                             ------
-;; Meta                                               Return
-;; ------            {Programmer Dvorak}              ------
-;; Shift                                               Shift
-;; ---------------------------------------------------------
-;; Hyper - Super - Ctrl - Space - Ctrl - Meta - Menu - Hyper
-;; ---------------------------------------------------------
-
-;; radio:
-;; H-r 1  ~/🚀synthwavecityFM-radio
-;; H-r 2  ~/🍄psybient-radio
-;; H-r 3  ~/🖭NewRetroWave
-
-
-;; C-x 5 2    opens another emacs frame, or C-<F1> using the desktop
-;; s-<end>  to save-buffers-kill-emacs
-
-;; This buffer is for text that is not saved, and for Lisp evaluation.
-;; To create a file, visit it with C-x C-f and enter text in its buffer.
-
-
 
 lets write down some ideas about some fiction I might write.
 
-title: Beacons
 
+title: Beacons
 genre: science fiction
+
+
+
+(let (()) (mark-whole-buffer) (xah-fill-or-unfill))
+
+
+(vc-next-action)
+
+
+(eshell-command "git push chugg-beacons master")
+
+
 --------------------------------------------------------------------
 
 
-The setting is ~70-200 years in the future. I want things to be recognizable and plausible but I'm not sure if I want to have an element where characters literally have no concept or memory of laptops and desktop computers with keyboards. and other memories about current geopolitical arrangements.
+The setting is ~70-200 years in the future. I want things to be
+recognizable and plausible but I'm not sure if I want to have an
+element where characters literally have no concept or memory of
+laptops and desktop computers with keyboards. and other memories about
+current geopolitical arrangements.
 
 the internet of things and bodies is pretty built out and commonplace.
 
-interacive surfaces are the common method of computing. No one knows how to type.  you can buy a coating at the hardware store to turn furniture and stuff into touchscreens and program buttons on anything. 
+interacive surfaces are the common method of computing. No one knows
+how to type.  you can buy a coating at the hardware store to turn
+furniture and stuff into touchscreens and program buttons on anything.
 
 
 
@@ -55,32 +41,75 @@ interacive surfaces are the common method of computing. No one knows how to type
 
 
 
-brave new world-lite type setting. People are born in factories but they still live in pretty recognizable nuclear families.
+brave new world-lite type setting. People are born in factories but
+they still live in pretty recognizable nuclear families.
 
-pregnancies are just a few weeks shorter and almost all are a more-developed less messy C-section type process with smaller incision and restorable with pretty much no scarring.
+pregnancies are just a few weeks shorter and almost all are a
+more-developed less messy C-section type process with smaller incision
+and restorable with pretty much no scarring.
 
-development is finished off in a controlled environment and the mother might start pumping if they want to to get milk tested and such before the newborn comes home.
-
-
-interactive skin is like a coating, or a membrane or something.  sort of like the contrast dye for MRIs. Its a computer thats powered by the metabolic processes in the body that interfaces with similar interactive surfaces.
-
-yeah its a polymer that that can encode data in the grooves of its surface. Like the study about programming water with sound and then freezing it. 
-
-the polymer can behave like a liquid, a viscose semi-solid fluid, a tough flexible membrane. its formed and set by radiation generally. low frequencies like AM/FM/shortwave radio have different effects than visible light, cell phone microwaves.
-
-it can also be chrystallized into a solid by growing it for many months in controlled conditions. and then pounded down into a dust.
+development is finished off in a controlled environment and the mother
+might start pumping if they want to to get milk tested and such before
+the newborn comes home.
 
 
-In practice, most of its state data is stored in micrometer size grooves thats set by ultra-high frequency bands, analogous to contemporary 5G but small enough wavelength to penetrate the skin. Direct exposure to that is dangerous on the body. So the programmable membranes coating organs in the body are written to from lower frequency signals transmitted by touching a crystal.  The membranes actually block those signals from getting into the body and hurting the person, because the crystal gets real time high speed updates from high frequency signals in the air.  the crystal then compresses the data transmissions into packets that can get to the body if the crystal is touched for a length of time.  kind of like how bluetooth works.
+interactive skin is like a coating, or a membrane or something.  sort
+of like the contrast dye for MRIs. Its a computer thats powered by the
+metabolic processes in the body that interfaces with similar
+interactive surfaces.
+
+yeah its a polymer that that can encode data in the grooves of its
+surface. Like the study about programming water with sound and then
+freezing it.
+
+the polymer can behave like a liquid, a viscose semi-solid fluid, a
+tough flexible membrane. its formed and set by radiation
+generally. low frequencies like AM/FM/shortwave radio have different
+effects than visible light, cell phone microwaves.
+
+it can also be chrystallized into a solid by growing it for many
+months in controlled conditions. and then pounded down into a dust.
 
 
-So. the air waves are polluted with dangerous radiation that powers the internet of things. The internet of things powers the internet of bodies, and those augments protect the host bodies.
+In practice, most of its state data is stored in micrometer size
+grooves thats set by ultra-high frequency bands, analogous to
+contemporary 5G but small enough wavelength to penetrate the
+skin. Direct exposure to that is dangerous on the body. So the
+programmable membranes coating organs in the body are written to from
+lower frequency signals transmitted by touching a crystal.  The
+membranes actually block those signals from getting into the body and
+hurting the person, because the crystal gets real time high speed
+updates from high frequency signals in the air.  the crystal then
+compresses the data transmissions into packets that can get to the
+body if the crystal is touched for a length of time.  kind of like how
+bluetooth works.
+
+if you live in a populated area you carry around a crystal like your
+cell phone that grants access to the smart grid.  if you are outside
+the strong signal radiation in cities you might carry a crystal just
+in case but its not as important. Where info is served there are
+panels to touch to download transmissions from.
+
+
+So. the air waves are polluted with dangerous radiation that powers
+the internet of things. The internet of things powers the internet of
+bodies, and those augments protect the host bodies.
 
 
 
-theres a geopolital arrangement cold war going on where theres some doomsday clock type device that buzzing around underwater or in space that programmer "hacker" gamer types. kinda like prestigeous atheletes, they work to constantly change the direction of the thing. the people most in tune with their thought interface can program its flight like a video game. and you have to be good at the math and have a knack for it. baisically a lot of cool high status professions involve a lot of work programming surfaces and projections and equipment to render information to get business done.
+theres a geopolital arrangement cold war going on where theres some
+doomsday clock type device that buzzing around underwater or in space
+that programmer "hacker" gamer types. kinda like prestigeous
+atheletes, they work to constantly change the direction of the
+thing. the people most in tune with their thought interface can
+program its flight like a video game. and you have to be good at the
+math and have a knack for it. baisically a lot of cool high status
+professions involve a lot of work programming surfaces and projections
+and equipment to render information to get business done.
 
 
 
-people have no concept of themself as as entity separate from the computing equipment they work with everyday.
+people have no concept of themself as as entity separate from the
+computing equipment they work with everyday.
+
 
