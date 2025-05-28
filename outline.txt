@@ -12,7 +12,7 @@ genre: science fiction
 (let (()) (mark-whole-buffer) (xah-fill-or-unfill))
 
 
-(vc-next-action)
+C-x v v  |  <f7> z z     ;(vc-next-action)
 
 
 (eshell-command "git push chugg-beacons master")
